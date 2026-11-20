@@ -11,13 +11,6 @@ Python
 Streamlit
 Google Gemini API
 python-dotenv
-Project Structure
-GeminiTextGenerator/
-│
-├── app.py
-├── .gitignore
-├── .env
-└── test_models.py
 Installation
 Clone the repository
 git clone https://github.com/rodaruu/gemini-ai-text-generator.git
